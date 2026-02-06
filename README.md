@@ -152,6 +152,6 @@ poetry run uvicorn main:app --reload
 
 - Projeto totalmente portátil entre Windows, Linux e Mac.
 
-# 🏷 Licença
+# Licença
 
 ## Projeto livre para uso educacional.
